@@ -1,0 +1,2 @@
+Because I'm so tired of reading articles about javascript and seeing the abomination of a phrase "reason about". 
+If this blasphemy of a phrase make you as irrationally angry, then install this Chrome extension to replace all instances of "reason about" with "understand".
